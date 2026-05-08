@@ -21,10 +21,15 @@ Projede kullanılan SQL sorguları ve oluşturulan view yapıları `sql_queries.
 ------------------------------------------------------------------------------------------------------  
 🔍 Yapılan Analizler
 1- Kategori bazlı gelir analizi
+
 2-Kategori bazlı satış adedi analizi
+
 3-Gün bazlı satış trendi
+
 4-Saat bazlı sipariş yoğunluğu
+
 5-Müşteri bazlı harcama analizi
+
 6-Kargo maliyeti / ürün fiyatı oran analizi
 
 🧠 Key Insights
