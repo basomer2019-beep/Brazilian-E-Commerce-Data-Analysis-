@@ -43,16 +43,19 @@ Yüksek gelir ve yüksek satış hacmi farklı kategorilerden gelmektedir
 → Bu durum, farklı fiyatlandırma ve müşteri davranışlarına işaret eder
 
 📅 Gün Bazlı Analiz
+
 Satışlar haftanın başında, özellikle Pazartesi günü zirve yapmaktadır
 → Kullanıcılar hafta başında alışveriş yapma eğilimindedir
 → Pazartesi günleri kampanya ve e-posta stratejileri için kritik bir fırsattır
 
 ⏰ Saat Bazlı Analiz
+
 Siparişler gün içerisinde artmakta, gece saatlerinde minimum seviyeye düşmektedir
 → Alışveriş davranışı günlük aktif saatlerde yoğunlaşmaktadır
 → Reklam ve kampanyalar gün içi ve akşam saatlerine odaklanmalıdır
 
 🚚 Kargo Maliyeti Analizi
+
 casa_conforto_2 kategorisinde kargo maliyeti, ürün fiyatının %93’üne ulaşmaktadır
 → Bu durum kârlılığı ciddi şekilde düşürmektedir.
 Öneri:
