@@ -20,6 +20,7 @@ Projede kullanılan SQL sorguları ve oluşturulan view yapıları `sql_queries.
 * Oluşturulan view, Pandas’a aktarılıp detaylı analiz gerçekleştirildi.
 ------------------------------------------------------------------------------------------------------  
 🔍 Yapılan Analizler
+
 1- Kategori bazlı gelir analizi
 
 2-Kategori bazlı satış adedi analizi
@@ -31,6 +32,7 @@ Projede kullanılan SQL sorguları ve oluşturulan view yapıları `sql_queries.
 5-Müşteri bazlı harcama analizi
 
 6-Kargo maliyeti / ürün fiyatı oran analizi
+
 
 🧠 Key Insights
 
