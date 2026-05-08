@@ -18,7 +18,7 @@ Projede kullanılan SQL sorguları ve oluşturulan view yapıları `sql_queries.
 * Tablolar JOIN işlemleri ile birleştirilerek final view oluşturuldu.
 * SQL ile veri çekme ve ön analizler yapıldı.
 * Oluşturulan view, Pandas’a aktarılıp detaylı analiz gerçekleştirildi.
-  
+------------------------------------------------------------------------------------------------------  
 🔍 Yapılan Analizler
 1- Kategori bazlı gelir analizi
 2-Kategori bazlı satış adedi analizi
